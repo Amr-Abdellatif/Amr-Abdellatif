@@ -10,8 +10,7 @@
 - 📫 How to reach me **amrosama42@gmail.com**
 
 
-![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807002-ec34fe69-46d2-4c5f-8077-4f929a932483.jpg)
-
+![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
 
 
 
