@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@Amr_Abdellatif](https://www.youtube.com/@Amr_Abdellatif)
 
-- 📝 I regularly write articles on [https://github.com/Amr-Abdellatif/Blogging](https://github.com/Amr-Abdellatif/Blogging)
-
 - 📫 How to reach me **amrosama42@gmail.com**
 
 
