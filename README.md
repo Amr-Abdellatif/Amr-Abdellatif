@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects/Data Analysis/Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@Amr_Abdellatif](https://www.youtube.com/@Amr_Abdellatif)
+- 👨‍💻 Some of my projects are available at my YouTube channel [https://www.youtube.com/@Amr_Abdellatif](https://www.youtube.com/@Amr_Abdellatif)
 
 - 📫 How to reach me **amrosama42@gmail.com**
 
