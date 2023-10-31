@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Osama Abdellatif</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
+- Currently **Msc** Student working on Thesis
+
 - 👯 I’m looking to collaborate on **Data Science projects/Data Analysis/Data Engineering**
 
 - 👨‍💻 Some of my projects are available at my YouTube channel [https://www.youtube.com/@Amr_Abdellatif](https://www.youtube.com/@Amr_Abdellatif)
