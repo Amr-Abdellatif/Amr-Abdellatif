@@ -15,6 +15,26 @@
 
 [Vision API-Endpoint with Resnet50 - ONNX format](https://github.com/Amr-Abdellatif/Building-vision-API-endpoint-for-images-classification-using-ResNet50).
 
+[Translator Api-Endpoint with Huggingface Seq2Seq model](https://github.com/Amr-Abdellatif/Building-Translator-API-endpoint-using-HF)
+
+[Ways to build Pytorch models and improve your Readability](https://github.com/Amr-Abdellatif/Ways-to-build-PyTorch-models-and-to-improve-your-readability)
+
+[Using Yolo-V9 Optimized with Roboflow Dataset with Kaggle Gpu Quota](https://github.com/Amr-Abdellatif/Yolo-V9-from-roboflow-to-kaggle)
+
+[End to End Mlops with Mlflow and Docker](https://github.com/Amr-Abdellatif/End-to-End-Mlops-with-MLFlow)
+
+[Fine-Tuning pretrained vision models using Pytorch](https://github.com/Amr-Abdellatif/Fine-Tuninng-Pre-Trained-Vision-models-PyTorch)
+
+[Autoregressive Modelling for TimeSeries Sequence data](https://github.com/Amr-Abdellatif/Autoregressive-Models-for-Time-Series---Sequence-modelling)
+
+[Learning Deep-Learning with Pytorch Curriculum](https://github.com/Amr-Abdellatif/learn-deep-learning-using-pytorch)
+
+[Building a simple Recommendation system using Pytorch](https://github.com/Amr-Abdellatif/building-a-simple-recommendation-system-using-pytorch)
+
+[Yolo-V8 as a security camera for detection of individuals and](https://github.com/Amr-Abdellatif/security_camera_using_yolo_V8)
+
+
+
 ![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
 
 
