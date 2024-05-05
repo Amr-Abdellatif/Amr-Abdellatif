@@ -8,8 +8,9 @@
 - 📫 How to reach me **amrosama42@gmail.com**
 
 # Projects :
-[makemore](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore)
-
+<ol>
+<li>[makemore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore)
+<ol>
 
 ![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
 
