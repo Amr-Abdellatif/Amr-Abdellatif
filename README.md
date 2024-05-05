@@ -33,7 +33,21 @@
 
 [Yolo-V8 as a security camera for detection of individuals and](https://github.com/Amr-Abdellatif/security_camera_using_yolo_V8)
 
+[Building ResNet from scratch using Pytorch](https://github.com/Amr-Abdellatif/Building-ResNet-from-scratch-using-PyTorch)
 
+[Building Mobile-Net from scratch using Pytorch](https://github.com/Amr-Abdellatif/Mobile-Net-implmentation-using-PyTorch)
+
+[Building Variational Autoencoder from scratch using Pytorch](https://github.com/Amr-Abdellatif/Variational-AutoEncoder-implmented-in-PyTorch)
+
+[Building U-net from scratch using Pytorch](https://github.com/Amr-Abdellatif/U-Net-from-scratch-using-PyTorch-for-Image-segmentation-tasks)
+
+[Building Autoencoder from scratch using PyTorch](https://github.com/Amr-Abdellatif/Full-Autoencoder-implemented-in-PyTorch)
+
+[Breaking Vision model using Adversarial attack](https://github.com/Amr-Abdellatif/Breaking-vision-models-using-Adversarial-attack)
+
+[Hyperparameters Tuning with Optuna and Pytorch](https://github.com/Amr-Abdellatif/HyperParameters-Tuning-using-Optuna---PyTorch)
+
+----------------------------------------------------------------------------------------------------------------------
 
 ![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
 
