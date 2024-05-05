@@ -9,7 +9,7 @@
 
 # Projects :
 
-[makemore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore).
+[MakeMore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore).
 
 [Building A Vision Transformer using PyTorch from scratch](https://github.com/Amr-Abdellatif/Building-a-Vision-Transformer-from-scratch-using-PyTorch).
 
