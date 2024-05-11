@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **amrosama42@gmail.com**
 
+----------------------------------------------------------------------------------------------------------------------
+
+![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
+
+
+
 # Projects :
 
 [MakeMore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore).
@@ -46,10 +52,6 @@
 [Breaking Vision model using Adversarial attack](https://github.com/Amr-Abdellatif/Breaking-vision-models-using-Adversarial-attack)
 
 [Hyperparameters Tuning with Optuna and Pytorch](https://github.com/Amr-Abdellatif/HyperParameters-Tuning-using-Optuna---PyTorch)
-
-----------------------------------------------------------------------------------------------------------------------
-
-![DELL-107 (1)](https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg)
 
 
 
