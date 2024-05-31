@@ -15,11 +15,11 @@
 
 # Projects :
 
-[NLP-Transformer from scratch with AMP and other Optimization - PyTorch](https://github.com/Amr-Abdellatif/NLP-Tranformer-from-scratch-with-PyTorch-AMP)
+1. [NLP-Transformer from scratch with AMP and other Optimization - PyTorch](https://github.com/Amr-Abdellatif/NLP-Tranformer-from-scratch-with-PyTorch-AMP)
 
-[MakeMore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore).
+1. [MakeMore - An Autoregressive character level language model](https://github.com/Amr-Abdellatif/Autoregressive-character-level-language-model---Makemore).
 
-[Building A Vision Transformer using PyTorch from scratch](https://github.com/Amr-Abdellatif/Building-a-Vision-Transformer-from-scratch-using-PyTorch).
+1. [Building A Vision Transformer using PyTorch from scratch](https://github.com/Amr-Abdellatif/Building-a-Vision-Transformer-from-scratch-using-PyTorch).
 
 [Vision API-Endpoint with Resnet50 - ONNX format](https://github.com/Amr-Abdellatif/Building-vision-API-endpoint-for-images-classification-using-ResNet50).
 
