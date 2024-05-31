@@ -21,39 +21,39 @@
 
 1. [Building A Vision Transformer using PyTorch from scratch](https://github.com/Amr-Abdellatif/Building-a-Vision-Transformer-from-scratch-using-PyTorch).
 
-[Vision API-Endpoint with Resnet50 - ONNX format](https://github.com/Amr-Abdellatif/Building-vision-API-endpoint-for-images-classification-using-ResNet50).
+1. [Vision API-Endpoint with Resnet50 - ONNX format](https://github.com/Amr-Abdellatif/Building-vision-API-endpoint-for-images-classification-using-ResNet50).
 
-[Translator Api-Endpoint with Huggingface Seq2Seq model](https://github.com/Amr-Abdellatif/Building-Translator-API-endpoint-using-HF)
+1. [Translator Api-Endpoint with Huggingface Seq2Seq model](https://github.com/Amr-Abdellatif/Building-Translator-API-endpoint-using-HF)
 
-[Ways to build Pytorch models and improve your Readability](https://github.com/Amr-Abdellatif/Ways-to-build-PyTorch-models-and-to-improve-your-readability)
+1. [Ways to build Pytorch models and improve your Readability](https://github.com/Amr-Abdellatif/Ways-to-build-PyTorch-models-and-to-improve-your-readability)
 
-[Using Yolo-V9 Optimized with Roboflow Dataset with Kaggle Gpu Quota](https://github.com/Amr-Abdellatif/Yolo-V9-from-roboflow-to-kaggle)
+1. [Using Yolo-V9 Optimized with Roboflow Dataset with Kaggle Gpu Quota](https://github.com/Amr-Abdellatif/Yolo-V9-from-roboflow-to-kaggle)
 
-[End to End Mlops with Mlflow and Docker](https://github.com/Amr-Abdellatif/End-to-End-Mlops-with-MLFlow)
+1. [End to End Mlops with Mlflow and Docker](https://github.com/Amr-Abdellatif/End-to-End-Mlops-with-MLFlow)
 
-[Fine-Tuning pretrained vision models using Pytorch](https://github.com/Amr-Abdellatif/Fine-Tuninng-Pre-Trained-Vision-models-PyTorch)
+1. [Fine-Tuning pretrained vision models using Pytorch](https://github.com/Amr-Abdellatif/Fine-Tuninng-Pre-Trained-Vision-models-PyTorch)
 
-[Autoregressive Modelling for TimeSeries Sequence data](https://github.com/Amr-Abdellatif/Autoregressive-Models-for-Time-Series---Sequence-modelling)
+1. [Autoregressive Modelling for TimeSeries Sequence data](https://github.com/Amr-Abdellatif/Autoregressive-Models-for-Time-Series---Sequence-modelling)
 
-[Learning Deep-Learning with Pytorch Curriculum](https://github.com/Amr-Abdellatif/learn-deep-learning-using-pytorch)
+1. [Learning Deep-Learning with Pytorch Curriculum](https://github.com/Amr-Abdellatif/learn-deep-learning-using-pytorch)
 
-[Building a simple Recommendation system using Pytorch](https://github.com/Amr-Abdellatif/building-a-simple-recommendation-system-using-pytorch)
+1. [Building a simple Recommendation system using Pytorch](https://github.com/Amr-Abdellatif/building-a-simple-recommendation-system-using-pytorch)
 
-[Yolo-V8 as a security camera for detection of individuals and](https://github.com/Amr-Abdellatif/security_camera_using_yolo_V8)
+1. [Yolo-V8 as a security camera for detection of individuals and](https://github.com/Amr-Abdellatif/security_camera_using_yolo_V8)
 
-[Building ResNet from scratch using Pytorch](https://github.com/Amr-Abdellatif/Building-ResNet-from-scratch-using-PyTorch)
+1. [Building ResNet from scratch using Pytorch](https://github.com/Amr-Abdellatif/Building-ResNet-from-scratch-using-PyTorch)
 
-[Building Mobile-Net from scratch using Pytorch](https://github.com/Amr-Abdellatif/Mobile-Net-implmentation-using-PyTorch)
+1. [Building Mobile-Net from scratch using Pytorch](https://github.com/Amr-Abdellatif/Mobile-Net-implmentation-using-PyTorch)
 
-[Building Variational Autoencoder from scratch using Pytorch](https://github.com/Amr-Abdellatif/Variational-AutoEncoder-implmented-in-PyTorch)
+1. [Building Variational Autoencoder from scratch using Pytorch](https://github.com/Amr-Abdellatif/Variational-AutoEncoder-implmented-in-PyTorch)
 
-[Building U-net from scratch using Pytorch](https://github.com/Amr-Abdellatif/U-Net-from-scratch-using-PyTorch-for-Image-segmentation-tasks)
+1. [Building U-net from scratch using Pytorch](https://github.com/Amr-Abdellatif/U-Net-from-scratch-using-PyTorch-for-Image-segmentation-tasks)
 
-[Building Autoencoder from scratch using PyTorch](https://github.com/Amr-Abdellatif/Full-Autoencoder-implemented-in-PyTorch)
+1. [Building Autoencoder from scratch using PyTorch](https://github.com/Amr-Abdellatif/Full-Autoencoder-implemented-in-PyTorch)
 
-[Breaking Vision model using Adversarial attack](https://github.com/Amr-Abdellatif/Breaking-vision-models-using-Adversarial-attack)
+1. [Breaking Vision model using Adversarial attack](https://github.com/Amr-Abdellatif/Breaking-vision-models-using-Adversarial-attack)
 
-[Hyperparameters Tuning with Optuna and Pytorch](https://github.com/Amr-Abdellatif/HyperParameters-Tuning-using-Optuna---PyTorch)
+1. [Hyperparameters Tuning with Optuna and Pytorch](https://github.com/Amr-Abdellatif/HyperParameters-Tuning-using-Optuna---PyTorch)
 
 
 
