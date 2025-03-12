@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr Osama Abdellatif</h1>
+<h1 align="center">Amr Osama Abdellatif</h1>
 <h3 align="center">A passionate Deep-Learning Engineer</h3>
 
 # Through The Realm of Neural Nets I Exist 
