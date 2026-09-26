@@ -9,8 +9,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-![DELL-107](<img width="1080" height="1130" alt="WhatsApp Image 2026-09-26 at 4 48 44 PM" src="https://github.com/user-attachments/assets/c2d81a47-5376-41de-aca2-6b7e45d337e2" />
-)
+<img width="1080" height="1130" alt="WhatsApp Image 2026-09-26 at 4 48 44 PM" src="https://github.com/user-attachments/assets/15b8a1f9-3825-474d-8b9d-8bb9b34b0fa8" />
+
 
 
 
