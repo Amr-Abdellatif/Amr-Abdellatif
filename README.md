@@ -9,7 +9,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-![DELL-107 (1)]([https://user-images.githubusercontent.com/92921252/227807148-5acb6c0b-16b0-496b-ac73-69994a975b7b.jpg](https://github.com/user-attachments/assets/0461b59a-ef9b-4721-8109-f1249cee373c))
+![DELL-107](<img width="1080" height="1130" alt="WhatsApp Image 2026-09-26 at 4 48 44 PM" src="https://github.com/user-attachments/assets/c2d81a47-5376-41de-aca2-6b7e45d337e2" />
+)
 
 
 
